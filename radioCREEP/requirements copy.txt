@@ -1,0 +1,7 @@
+numpy==1.26.4
+matplotlib==3.8.2
+librosa==0.10.2
+sounddevice==0.4.7
+kivy==2.2.1
+kivy-garden.matplotlib==0.1.0
+pillow==10.3.0
