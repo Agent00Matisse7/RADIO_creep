@@ -3,7 +3,15 @@ Radio creep v1.0
 
 ## What is Radio CREEP?
 
-radioCREEP python app was the backbone of the iOS application of the same name: check it out! https://apps.apple.com/us/app/radiocreep/id6756237336.
+radioCREEP python app was the backbone of the iOS application of the same name: check it out! https://apps.apple.com/us/app/radiocreep/id6756237336. Allowing user to turn their macbooks into automated acustics tool, 100% free. 
+
+## Who is Radio CREEP?
+- Students
+- Indie music creators
+- Ham radio fans
+- melophiles
+- Souund artist
+- Or anyone intrested in sound analysis 
 
 ## Features
 -  Record any duration of minutues of audio!
@@ -19,7 +27,7 @@ source .venv/bin/activate OR on Windows: .venv\Scripts\activate
 
 2️⃣ Install everything
 
-pip install -r requirements.txt
+pip install -r requirements.txt 
 
 3️⃣ Run any of the apps
 
