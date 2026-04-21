@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 3️⃣ Run any of the apps
 
-python sound_analyzer.py
-python yeah_like.py     
-python view_fingerprints.py --file data/sample_fingerprint.npy
+### python sound_analyzer.py
+### python yeah_like.py     
+### python view_fingerprints.py --file data/sample_fingerprint.npy
 
