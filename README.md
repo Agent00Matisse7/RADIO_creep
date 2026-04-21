@@ -34,4 +34,8 @@ pip install -r requirements.txt
 ### python sound_analyzer.py
 ### python yeah_like.py     
 ### python view_fingerprints.py --file data/sample_fingerprint.npy
+<img width="1728" height="1117" alt="Screenshot 2026-04-21 at 1 02 38 PM" src="https://github.com/user-attachments/assets/cf0733a7-5e2b-4389-bd8c-4495d4e0b05f" />
+<img width="1728" height="1117" alt="Screenshot 2026-04-21 at 1 03 30 PM" src="https://github.com/user-attachments/assets/eca1937d-ae1d-4ec1-be3b-27b8c7ff7197" />
+<img width="1728" height="1117" alt="Screenshot 2026-04-21 at 1 03 28 PM" src="https://github.com/user-attachments/assets/2c9de323-fec0-4ef9-ae59-3fda37749d55" />
+<img width="1728" height="1117" alt="Screenshot 2026-04-21 at 1 03 20 PM" src="https://github.com/user-attachments/assets/51c918bf-b8d2-4824-ae42-c636c8d02ff0" />
 
