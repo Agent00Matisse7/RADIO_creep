@@ -5,7 +5,7 @@ Radio creep v1.0
 
 radioCREEP python app was the backbone of the iOS application of the same name: check it out! https://apps.apple.com/us/app/radiocreep/id6756237336. Allowing user to turn their macbooks into automated acoustics tool, 100% free. 
 
-## Who is Radio CREEP?
+## Who is Radio CREEP for?
 - Students
 - Indie music creators
 - Ham radio fans
